@@ -107,3 +107,10 @@ def test_missing_file_raises_calendar_file_error():
 
     with pytest.raises(CalendarFileError):
         repository.get_all_events()
+        
+def test_person_without_events_is_free_all_day():
+    service = AvailabilityService(FakeRepository([]))
+
+    slots = service.find_available_slots(["Alice"], timedelta(minutes=60))
+
+    assert slots == [(time(7, 0), time(18, 0))]

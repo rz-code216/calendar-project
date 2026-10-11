@@ -1,5 +1,9 @@
+
 # Title from branch A and B
-Line added in branch C
+
+
+# Title from branch B
+
 
 Welcome to the Python starter project for Comp's coding evaluation!
 

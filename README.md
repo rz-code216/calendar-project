@@ -1,6 +1,5 @@
-  # Title from branch A
-
->>>>>>> 685c75978fcb2419c494d06e5ff8bd58a2c461d3
+# Title from branch A and B
+Line added in branch C
 
 Welcome to the Python starter project for Comp's coding evaluation!
 

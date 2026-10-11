@@ -1,4 +1,6 @@
-# Title from branch B
+  # Title from branch A
+
+>>>>>>> 685c75978fcb2419c494d06e5ff8bd58a2c461d3
 
 Welcome to the Python starter project for Comp's coding evaluation!
 

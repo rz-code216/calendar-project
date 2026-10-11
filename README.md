@@ -1,4 +1,4 @@
-# Comp In-Office Coding Evaluation - Python
+# Title from branch B
 
 Welcome to the Python starter project for Comp's coding evaluation!
 
